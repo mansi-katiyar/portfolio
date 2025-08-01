@@ -1,0 +1,164 @@
+/* style.css - Light Theme Portfolio */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+  background-color: #fefdfc;
+  color: #2c2c2c;
+  line-height: 1.7;
+}
+
+.container {
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+  padding: 50px 0;
+}
+
+/* Header */
+header {
+  background-color: #f7d9c4;
+  color: #322e3a;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+header h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+header p {
+  font-size: 1.2rem;
+  color: #0a8a70
+}
+
+/* About */
+#about {
+  background-color: #fff5ea;
+}
+
+.about-content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  
+}
+
+.about-content img {
+  width: 180px;
+  border-radius: 50%;
+  border: 5px solid #ffa366;
+}
+
+.about-content p {
+  font-size: 1.1rem;
+  max-width: 500px;
+}
+
+/* Skills */
+#skills h2 {
+  text-align: center;
+  color: #ff7f50;
+}
+
+.skills-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  padding-top: 20px;
+}
+
+.skills-list li {
+  background-color: #ffe0c1;
+  color: #333;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-weight: 600;
+}
+
+/* Projects */
+#projects {
+  background-color: #fff9f3;
+}
+
+.projects {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 30px;
+  margin-top: 30px;
+}
+
+.project-card {
+  background: white;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  padding: 20px;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-8px);
+}
+
+.project-card img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+/* Resume */
+#resume {
+  text-align: center;
+}
+
+.btn {
+  background-color: #ffa366;
+  color: white;
+  padding: 12px 25px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: 600;
+  display: inline-block;
+  margin-top: 20px;
+  transition: background 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #f28500;
+}
+
+/* Contact */
+#contact {
+  background-color: #fff5ea;
+  text-align: center;
+  font-size: 1.1rem;
+}
+
+#contact a {
+  color: #f28500;
+  text-decoration: none;
+}
+
+#contact a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  background-color: #2c2c2c;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9rem
