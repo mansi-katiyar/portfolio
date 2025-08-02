@@ -3,8 +3,6 @@
 Welcome to my **Web Developer Portfolio**!  
 A modern, responsive, and eye-catching personal website to showcase my **skills**, **projects**, and **achievements** — built using **HTML** and **CSS**.
 
-![Portfolio Preview](./image0.jpg)
-
 ---
 
 ### 🔥 Highlights
