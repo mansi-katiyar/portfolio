@@ -1,12 +1,11 @@
-#### 🌟 Personal Portfolio – Mansi Katiyar
+# 🌟 Personal Portfolio – Mansi Katiyar
 
 Welcome to my **Web Developer Portfolio**!  
-
 A modern, responsive, and eye-catching personal website to showcase my **skills**, **projects**, and **achievements** — built using **HTML** and **CSS**.
 
 ---
 
-### 🔥 Highlights
+## 🔥 Highlights
 
 - ✅ Fully **responsive** design
 - 🎨 Visually **appealing UI**
@@ -16,8 +15,16 @@ A modern, responsive, and eye-catching personal website to showcase my **skills*
 
 ---
 
-### 📂 File Structure
-portfolio/
+## 💻 Technologies Used
+
+- **HTML5** – For structure
+- **CSS3** – For design and layout
+- **Media Queries** – For mobile responsiveness
+
+---
+
+## 📂 File Structure
+portfolio
 
 ├── index.html # Main structure
 
@@ -28,12 +35,4 @@ portfolio/
 ├── image1.jpg
 
 ├── image2.jpg
-
----
-
-### 💻 Technologies Used
-
-- **HTML5** – For structure
-- **CSS3** – For design and layout
-- **Media Queries** – For mobile responsiveness
 
