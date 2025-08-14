@@ -2,7 +2,7 @@
 
 Welcome to my **Web Developer Portfolio**!  
 A modern, responsive, and eye-catching personal website to showcase my **skills**, **projects**, and **achievements** — built using **HTML** and **CSS**.
-
+![image alt](https://github.com/mansi-katiyar/portfolio-MansiKatiyar/blob/08868f8f1affd7e7fdc14f61b0cf6be2824f8613/output-screenshort.jpeg)
 ---
 
 ## 🔥 Highlights
